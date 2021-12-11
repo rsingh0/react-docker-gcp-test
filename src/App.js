@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      react-nginx-docker-gcp-poc
+      react-nginx-docker-gcp
     </div>
   );
 }
